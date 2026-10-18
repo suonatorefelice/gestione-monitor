@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/dipendenze-nessuna-brightgreen" alt="Nessuna dipendenza">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/suonatorefelice/gestione-monitor?color=blue" alt="Licenza MIT"></a>
   <img src="https://img.shields.io/github/last-commit/suonatorefelice/gestione-monitor" alt="Ultimo commit">
-  <img src="https://img.shields.io/github/repo-size/suonatorefelice/gestione-monitor" alt="Dimensione repo">
   <a href="https://github.com/suonatorefelice/gestione-monitor/stargazers"><img src="https://img.shields.io/github/stars/suonatorefelice/gestione-monitor?style=social" alt="Stelle"></a>
 </p>
 
