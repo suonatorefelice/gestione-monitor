@@ -5,6 +5,18 @@
 <h1 align="center">Gestione Monitor</h1>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/macOS-14%2B-000000?logo=apple&logoColor=white" alt="macOS 14+">
+  <img src="https://img.shields.io/badge/Apple%20Silicon-M1%20%7C%20M2%20%7C%20M3%20%7C%20M4-555555?logo=apple&logoColor=white" alt="Apple Silicon">
+  <img src="https://img.shields.io/badge/Swift-6-F05138?logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/SwiftUI-MenuBarExtra-0A84FF?logo=swift&logoColor=white" alt="SwiftUI">
+  <img src="https://img.shields.io/badge/dipendenze-nessuna-brightgreen" alt="Nessuna dipendenza">
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/suonatorefelice/gestione-monitor?color=blue" alt="Licenza MIT"></a>
+  <img src="https://img.shields.io/github/last-commit/suonatorefelice/gestione-monitor" alt="Ultimo commit">
+  <img src="https://img.shields.io/github/repo-size/suonatorefelice/gestione-monitor" alt="Dimensione repo">
+  <a href="https://github.com/suonatorefelice/gestione-monitor/stargazers"><img src="https://img.shields.io/github/stars/suonatorefelice/gestione-monitor?style=social" alt="Stelle"></a>
+</p>
+
+<p align="center">
   Regola il monitor esterno del Mac dalla barra dei menu, anche quando il monitor non accetta comandi DDC/CI.<br>
   Nativa, in un solo file Swift, senza dipendenze né driver.
 </p>
