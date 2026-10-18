@@ -1,0 +1,5 @@
+*.app/
+AppIcon.iconset/
+.DS_Store
+/ddc
+/make-icon
